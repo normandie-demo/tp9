@@ -41,3 +41,5 @@ Rajouter un commentaire sur la première ligne
 ```Shell
 ansible-playbook -i inventory nginx.yaml
 ```
+
+Lien vers le dossier [corrections](../Correction)
